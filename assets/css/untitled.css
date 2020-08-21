@@ -1,0 +1,12 @@
+.content-section {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
+
+#sidebar-nav li, #sidebar-wrapper {
+}
+
+#about {
+  background-image: url('../../assets/img/mountain.jpg');
+}
+
